@@ -41,24 +41,19 @@ If you find this collection valuable and appreciate the effort involved in obtai
 
 You can show your support via:
 
-*   **PayPal:** `lucknitelol@proton.me`
-*   **Cryptocurrency:**
-    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
-
+*   **Binance:** `281543866`
 Thank you for your support! 🙏
 
 
 ## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
+IG **IG:** [11.11studios_ve](https://www.instagram.com/11.11studios_ve/) 
 
 ## 🛡️ **Security Notice for AI Startups***
 
 ⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
 
 🔐 **Interested in securing your AI systems?**  
-Check out **[ZeroLeaks](https://zeroleaks.lucknite.lol/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
+Check out **[11:11 Studios](https://11-11studios.tech/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
 
 **The company is mine, this is NOT a 3rd party AD.*
