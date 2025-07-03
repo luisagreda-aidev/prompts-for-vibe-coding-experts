@@ -1,4 +1,4 @@
---- ENGLISH PROJECT README ---
+--- ENGLISH PROJECT README - DOWN SCROLL FOR SPANISH PROJECT README---
 
 # **Comprehensive Collection of AI Agent System Prompts, Tools, and Models**
 
@@ -54,16 +54,6 @@ Thank you for your support! 🙏
 Explore **[11:11 Studios](https://11-11studios.tech/)**, a specialized service dedicated to assisting startups in **identifying and securing** vulnerabilities within system instructions, internal tools, and model configurations. Benefit from a **free AI security audit** to safeguard your AI assets.
 
 *(Note: 11:11 Studios is directly affiliated with the project creator and is not a third-party advertisement.)*
-
-## 📊 **Project Evolution (Star History)**
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
- </picture>
-</a>
 
 ⭐ **Please star the repository if you find this resource valuable!**
 
@@ -134,15 +124,6 @@ Explore **[11:11 Studios](https://11-11studios.tech/)**, un servicio especializa
 
 *(Nota: 11:11 Studios está directamente afiliado con el creador del proyecto y no es un anuncio de terceros.)*
 
-## 📊 **Evolución del Proyecto (Historial de Estrellas)**
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-   <img alt="Gráfico de Historial de Estrellas" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
- </picture>
-</a>
 
 ⭐ **¡Por favor, marque el repositorio con una estrella si encuentra este recurso valioso!**
 
