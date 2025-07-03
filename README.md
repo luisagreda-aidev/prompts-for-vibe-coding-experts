@@ -28,7 +28,7 @@ This collection features dedicated folders for each AI agent or model, providing
 
 ---
 
-🆕 **LATEST UPDATE:** June 25, 2025
+🆕 **LATEST UPDATE:** July 25, 2025
 
 ## ❤️ **Support and Contribution**
 
@@ -96,7 +96,7 @@ Esta colección presenta carpetas dedicadas para cada agente o modelo de IA, pro
 
 ---
 
-🆕 **ÚLTIMA ACTUALIZACIÓN:** 25 de junio de 2025
+🆕 **ÚLTIMA ACTUALIZACIÓN:** 03 de julio de 2025
 
 ## ❤️ **Apoyo y Contribución**
 
