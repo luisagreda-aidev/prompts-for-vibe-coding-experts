@@ -6,9 +6,7 @@ This repository offers an in-depth look into the operational frameworks of leadi
 
 *(Note: All published system prompts are personally extracted, with contributions from open-source projects like Manus, Dia, and Cluely.)*
 
-📜 Over **7,500+ lines** of detailed insights into AI agent structure and functionality.
-
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
+📜 Over **14,500+ lines** of detailed insights into AI agent structure and functionality.
 
 ## 📂 **Included Resources**
 
@@ -75,9 +73,8 @@ Este repositorio ofrece una visión profunda de los marcos operativos de los pri
 
 *(Nota: Todos los prompts de sistema publicados son extraídos personalmente, con contribuciones de proyectos de código abierto como Manus, Dia y Cluely.)*
 
-📜 Más de **7,500+ líneas** de información detallada sobre la estructura y funcionalidad de los agentes de IA.
+📜 Más de **14,500+ líneas** de información detallada sobre la estructura y funcionalidad de los agentes de IA.
 
-[![Estado de Construcción](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 
 ## 📂 **Recursos Incluidos**
 
